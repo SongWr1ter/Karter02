@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2e57415e50616940af4a4db47f31fff, type: 3}
+  m_Name: CharacterWeightSet
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  WeightsList:
+  - {fileID: 11400000, guid: df8333e38aac5eb4c87a3649fdf6c525, type: 2}
+  - {fileID: 11400000, guid: e133a75fa7e37704cbc6cf56adc7bee4, type: 2}
+  - {fileID: 11400000, guid: a44032db389c3fe4a808fdbb5edc5c7a, type: 2}
